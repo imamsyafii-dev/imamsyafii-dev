@@ -1,16 +1,23 @@
-## Hi there 👋
+## About Me
 
-<!--
-**imamsyafii-dev/imamsyafii-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Imam Syafii**, a Backend Developer with 10+ years of software engineering experience.
 
-Here are some ideas to get you started:
+I currently work at **Citra International Digital**, developing backend services and client runtime capabilities for **BBGE**, a cross-platform real-time messaging application. My primary focus is building reliable backend systems with **Go** and shared client runtime components with **Rust**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My experience includes API design, real-time communication, database-backed business logic, cross-device synchronization, messaging systems, payment integrations, and production troubleshooting. I also contribute to frontend and mobile code when a feature or bug fix requires end-to-end changes.
+
+Before specializing in backend and runtime development, I worked extensively with **PHP, Laravel, Node.js, React, Vue, MySQL, and MongoDB**, building e-commerce, payment, financial, and operational systems.
+
+### Current Focus
+
+- Backend development with Go
+- Client runtime development with Rust
+- Real-time messaging and WebSocket systems
+- PostgreSQL, SQLite, and data consistency
+- Protocol Buffers and cross-platform APIs
+- Docker, Kubernetes, testing, and CI/CD
+
+### Connect With Me
+
+- GitHub: You're already here
+- Email: `imamsyafii.dev@gmail.com`
