@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm **Imam Syafii**, a Backend Developer with 10+ years of software engineering experience.
+Hi, I'm **Imam Syafii**, a Senior Software Developer with 10+ years of software engineering experience.
 
 I currently work at **Citra International Digital**, developing backend services and client runtime capabilities for **BBGE**, a cross-platform real-time messaging application. My primary focus is building reliable backend systems with **Go** and shared client runtime components with **Rust**.
 
